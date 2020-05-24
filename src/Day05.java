@@ -17,7 +17,7 @@ SOLUTION APPROACH:
 */
 
 import java.util.HashMap;
-public class Day5 {
+public class Day05 {
     public static void main(String[] args) {
         System.out.println("First unique character index in " + "leetcode: " + firstUniqChar("leetcode"));
         System.out.println("First unique character index in " + "loveleetcode: " + firstUniqChar("loveleetcode"));

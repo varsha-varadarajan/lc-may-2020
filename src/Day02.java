@@ -24,7 +24,7 @@ Check for each character in Stones, if character is present in Jewels set
 import java.util.HashSet;
 import java.util.Set;
 
-public class Day2 {
+public class Day02 {
     public int numJewelsInStones(String J, String S) {
         Set jewels = new HashSet<Character>();
         for (int i=0; i<J.length(); i++) {

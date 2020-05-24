@@ -23,7 +23,7 @@ SOLUTION APPROACH:
 Get LSD, flip using XOR, and convert to Base 10
 */
 
-public class Day4 {
+public class Day04 {
     public static void main(String args[]){
         System.out.println(findComplement(5));
         System.out.println(findComplement(1));

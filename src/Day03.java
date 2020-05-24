@@ -27,7 +27,7 @@ If you run out, return false
 
 import java.util.HashMap;
 
-public class Day3 {
+public class Day03 {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap mag = new HashMap<Character, Integer>();
         for (int i=0; i<magazine.length(); i++) {
